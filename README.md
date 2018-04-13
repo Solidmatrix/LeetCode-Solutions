@@ -1,4 +1,5 @@
-# LeetCode-in-Python
+# LeetCode Solutions
+In Python and C++
 
 ## 099. Recover Binary Search Tree
 前序遍历可以顺序输出BST。可以通过前序遍历找出位置不对的节点。O(N)。
