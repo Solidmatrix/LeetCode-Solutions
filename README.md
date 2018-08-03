@@ -1,6 +1,9 @@
 # LeetCode Solutions
 In Python and C++ and java
 
+## 87. Scramble String.py
+用分治法，找到根节点的两棵子树后分别对子树进行判断。在此之前可以先消去两个字符串头尾相同的字符以降低复杂度。T(N) = 2T(N/2) + NlogN
+
 ## 097. Interleaving String.py
 Dynamic programming。O(N^2)。
 
